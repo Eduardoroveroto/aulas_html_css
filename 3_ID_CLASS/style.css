@@ -1,0 +1,27 @@
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(153, 56, 56);
+    font-size: 40px;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: maroon;
+    font-size: 20px;
+    line-height: 36px;
+}
+
+.oi{
+    color: #ff0000;
+}
+
+.texto_grande{
+    font-size: 60px;
+}
+
+#titulo_h2 {
+    background-color: crimson;
+}
+
+#titulo_h2-1 {
+    color: grey;
+}
