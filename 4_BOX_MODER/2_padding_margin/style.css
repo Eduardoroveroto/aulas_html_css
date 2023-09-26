@@ -1,4 +1,9 @@
+* {
+     margin: 0;
+}
 div {
+
+
      border: 4px dotted #00f;
     width: fit-content;
     font-size: 25px;
@@ -19,3 +24,22 @@ div {
      padding-inline:40px ;
      padding-block:20px ;
 } 
+
+h1 {
+     border: 1px solid red;
+     margin-bottom: 20px;
+
+}
+
+.algum {
+     margin-bottom: 100px ;
+}
+
+
+.ultimo {
+     margin-top: 50px;
+}
+
+.outro {
+     margin-inline: auto;
+}
